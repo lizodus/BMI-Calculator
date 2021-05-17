@@ -1,4 +1,4 @@
-# ShapeAI-NodeJS
+# BMI Calculator
 
 # 7days free Bootcamp on web dev with Nodejs by ShapeAI
 
