@@ -4,6 +4,8 @@
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI . The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 
+You can catch up with the session here https://www.youtube.com/playlist?list=PL7zl8TDRnbul748Yq6CTEnUzUfGE26AOA
+
 
 I got to have hands on experience on:
 HTML
